@@ -4,8 +4,10 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
+# Dados locais
 data/
 *.csv
+*.zip
 *.parquet
 
 .aws/
